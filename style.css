@@ -32,3 +32,6 @@ body {
 :focus {
   background-color: black;
 }
+footer {
+  color: white;
+}
