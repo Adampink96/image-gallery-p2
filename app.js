@@ -9,37 +9,37 @@ const audio1 = document.getElementById("audio1");
 const images = [
   {
     src: "vaporwave1.jpg",
-    alt: "city",
+    alt: "city japan , ps2 asthetic",
     mp3: "anime 1.mp3",
   },
   {
     src: "vaporwave2.jpg",
-    alt: "waterfall",
+    alt: "waterfall japan, ps2 asthetic",
     mp3: "anime2.mp3",
   },
   {
     src: "vaporwave3.jpg",
-    alt: "mountains",
+    alt: "mountains japan, ps2 asthetic",
     mp3: "anime3.mp3",
   },
   {
     src: "vaporwave4.jpg",
-    alt: "grid image three people",
+    alt: "grid image three characters from Neon Genesis",
     mp3: "anime4.mp3",
   },
   {
     src: "vaporwave7.jpg",
-    alt: "temple and mountain",
+    alt: "temple and mountain background, ps2 asthetic",
     mp3: "anime5.mp3",
   },
   {
     src: "vaporwave8.jpg",
-    alt: "city background",
+    alt: "city background japan, ps2 asthetic",
     mp3: "anime6.mp3",
   },
   {
     src: "vaporwave9.jpg",
-    alt: "city background",
+    alt: "city background japan, ps2 asthetic",
     mp3: "anime7.mp3",
   },
 ];
